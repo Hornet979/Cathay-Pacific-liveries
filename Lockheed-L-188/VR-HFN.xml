@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">Cathay Pacific VR-HFN</name>
+        <texture>Liveries/VR-HFN.png</texture>
+      </livery>
+    	<propllers>
+        	<texture>Liveries/VR-HFN-prop.png</texture>
+    	</propllers>
+    </model>
+  </sim>
+</PropertyList>
